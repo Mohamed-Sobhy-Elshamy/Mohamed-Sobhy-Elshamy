@@ -11,7 +11,7 @@
 
 
 - 🧑‍💻 I am a **software engineer**.
-- 📆 I have over **two** `years` of experience.
+- 📆 I have over **three** `years` of experience.
 - 🌐 Working as a **front-end developer** freelancer on **Mostaql**.
 - 💼 Working as a **full stack developer** freelancer on **Upwork** and **Freelancer**.
 - 🔍 Solved over **400 problem-solving challenges** using **C++**.
